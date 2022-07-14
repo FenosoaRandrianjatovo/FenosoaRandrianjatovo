@@ -12,7 +12,7 @@
 #### Connect with me:
 <div align="center">
     <a href="mailto: fenosoa.randrianjatovo@aims.ac.rw">
-        <img alt="Fenosoa | Gmail" width="40px" style="margin-right:20px" src="https://logosandtypes.com/wp-content/uploads/2020/11/Google.png" />
+        <img alt="Fenosoa | Gmail" width="50px" style="margin-right:20px" src="https://logosandtypes.com/wp-content/uploads/2020/11/Google.png" />
     </a>
     &nbsp;&nbsp;&nbsp
     <a href="www.linkedin.com/fenosoa-randrianjatovo">
