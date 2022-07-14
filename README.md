@@ -11,11 +11,11 @@
 
 #### Connect with me:
 <div align="center">
-    <a href="mailto: mansourbarro.sow652@gmail.com">
-        <img alt="Mansour | Gmail" width="50px" style="margin-right:20px" src="assets/Gmail_Logo.svg" />
+    <a href="mailto: fenosoa.randrianjatovo@aims.ac.rw">
+        <img alt="Fenosoa | Gmail" width="50px" style="margin-right:20px" src="assets/Gmail_Logo.svg" />
     </a>
     &nbsp;&nbsp;&nbsp
-    <a href="https://www.linkedin.com/in/mansour-sow-163091198/">
+    <a href="www.linkedin.com/in/fenosoa-randrianjatovo">
         <img alt="anwarvic | LinkedIn" width="40px" src="assets/linkedin.svg" />
     </a>
     &nbsp;&nbsp;&nbsp;
