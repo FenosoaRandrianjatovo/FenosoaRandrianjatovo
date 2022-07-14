@@ -14,7 +14,7 @@
         <img alt="Fenosoa | Gmail" width="50px" style="margin-right:20px" src="https://logosandtypes.com/wp-content/uploads/2020/11/Google.png" />
     </a>
     &nbsp;&nbsp;&nbsp
-    <a href="www.linkedin.com/fenosoa-randrianjatovo">
+    <a href="https://www.linkedin.com/in/fenosoa-randrianjatovo">
         <img alt="Fenosoa | LinkedIn" width="40px" style="margin-right:20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" />
     </a>
     &nbsp;&nbsp;&nbsp;
