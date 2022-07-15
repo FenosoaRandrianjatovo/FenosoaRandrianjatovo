@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on Machine Learning and AI
 - 🌱 I’m currently learning Geometric Deep Learning and Graph Neural Network
 - 💬 Ask me about Mathematics and AI
-- ⚡ Fun fact: Funny 🤪
+- ⚡ Fun fact: The moon has moonquakes 🤪
 
 
 #### Connect with me:
