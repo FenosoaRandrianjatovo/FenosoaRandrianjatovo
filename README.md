@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on Machine Learning and AI
+- 🔭 I’m currently working on Machine Intelligence and AI
 - 🌱 I’m currently learning Geometric Deep Learning and Graph Neural Network
 - 💬 Ask me about Mathematics and AI
 - ⚡ Fun fact: The moon has moonquakes 🤪
