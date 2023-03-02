@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on Machine Intelligence and AI
-- 🌱 I’m currently learning Geometric Deep Learning and Graph Neural Network
+- 🔭 I’m currently working on Reinforcement Learning  at the Max Planck Institute for Intelligent Systems.
+- 🌱 I’m currently learning Stochastic Bandits and Bandit Algorithms
 - 💬 Ask me about Mathematics and AI
 - ⚡ Fun fact: The moon has moonquakes 🤪
 
