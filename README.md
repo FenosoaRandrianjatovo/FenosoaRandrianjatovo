@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on Reinforcement Learning  at the Max Planck Institute for Intelligent Systems.
-- 🌱 I’m currently learning Stochastic Bandits and Bandit Algorithms
-- 💬 Ask me about Mathematics and AI
+- 🔭 I’m currently working on Variational AutoEncoder  at the Institut National de la Recherche Scientifique, INRS Laval - UQAC
+- 🌱 I’m currently Multivariate Expectiles and Biotechnology
+- 💬 Ask me about Mathematics and Intelligence Artificielle
 - ⚡ Fun fact: The moon has moonquakes 🤪
 
 
