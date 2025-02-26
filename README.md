@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on Variational AutoEncoder  at the Institut National de la Recherche Scientifique, INRS Laval - UQAC
+- 🔭 I’m currently working on Variational AutoEncoder  at the Institut National de la Recherche Scientifique, INRS Laval - UQAM - UQAC
 - 🌱 I’m currently Learning the Multivariate Expectiles and Random Projection
 - 💬 Ask me about Mathematics and Artificial Intelligence 
 - ⚡ Fun fact: The moon has moonquakes 🤪
