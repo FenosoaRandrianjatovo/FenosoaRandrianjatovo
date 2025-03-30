@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on Variational AutoEncoder  at the Institut National de la Recherche Scientifique, INRS Laval - UQAM - UQAC
-- 🌱 I’m currently Learning the Multivariate Expectiles and Random Projection
+- 🌱 I’m currently Learning the Multivariate Expectiles and Uniform Manifold Approximation and Projection with t-distributed stochastic neighbor embedding 
 - 💬 Ask me about Mathematics and Artificial Intelligence 
 - ⚡ Fun fact: The moon has moonquakes 🤪
 
