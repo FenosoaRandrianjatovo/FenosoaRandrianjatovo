@@ -1,4 +1,11 @@
-### Hi there 👋
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Fenosoa+Randrianjatovo+%F0%9F%91%8B;Machine+Learning+%26+Mathematics;Unsupervised+Visualization+with+Contrastive+Learning"
+      alt="Typing SVG"
+    />
+  </a>
+</div>
 
 
 - 🔭 I’m currently working on Unsupervised Visualisation using Constrastive Learning   at the Institut National de la Recherche Scientifique, INRS .
