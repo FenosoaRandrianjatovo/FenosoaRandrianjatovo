@@ -1,6 +1,6 @@
 <div align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Fenosoa+Randrianjatovo+%F0%9F%91%8B;Machine+Learning+%26+Mathematics;Unsupervised+Visualization+with+Contrastive+Learning"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Fenosoa+Randrianjatovo+%F0%9F%91%8B; A+Machine+Learning Scientist+%26+Mathematician;Specialised+in+Unsupervised+Visualization+with+Contrastive+Learning"
     alt="Typing SVG"
   />
 </div>
