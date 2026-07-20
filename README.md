@@ -19,8 +19,8 @@
 </div>
 
 <p align="center">
-    <!-- <img src="https://github-readme-stats.vercel.app/api?username=FenosoaRandrianjatovo&show_icons=true&theme=radical" alt="Anwarvic's github stats"> -->
-    <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FenosoaRandrianjatovo&layout=compact&theme=radical" style="padding: 15px" /> -->
+    <img src="https://github-readme-stats.vercel.app/api?username=FenosoaRandrianjatovo&show_icons=true&theme=radical" alt="Anwarvic's github stats"> -->
+    <!-- <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FenosoaRandrianjatovo&layout=compact&theme=radical" style="padding: 15px" /> -->
     <br><br>
     <img src="https://github-profile-trophy.vercel.app/?username=FenosoaRandrianjatovo&theme=radical" />
     <br><br>
