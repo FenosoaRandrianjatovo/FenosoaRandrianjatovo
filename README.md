@@ -27,3 +27,4 @@
     
 </p>
 <br><br>
+<div align="center"> <img src="https://streak-stats.demolab.com?user=FenosoaRandrianjatovo&theme=radical&hide_border=true" alt="GitHub streak"/> <br><br> <img src="https://github-readme-activity-graph.vercel.app/graph?username=FenosoaRandrianjatovo&theme=react-dark&hide_border=true" alt="GitHub activity graph"/> </div>
