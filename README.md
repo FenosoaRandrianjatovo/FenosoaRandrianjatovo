@@ -12,19 +12,6 @@
 
 #### Github contributions
  
- <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=FenosoaRandrianjatovo&theme=radical" alt="Fenosoa" />
-    <br><br>
-    <img src="https://activity-graph.herokuapp.com/graph?username=FenosoaRandrianjatovo&theme=react-pink" />
-</div>
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=FenosoaRandrianjatovo&show_icons=true&theme=radical" alt="Anwarvic's github stats"> -->
-    <!-- <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FenosoaRandrianjatovo&layout=compact&theme=radical" style="padding: 15px" /> -->
-    <br><br>
-    <img src="https://github-profile-trophy.vercel.app/?username=FenosoaRandrianjatovo&theme=radical" />
-    <br><br>
-    
-</p>
 <br><br>
 <div align="center"> <img src="https://streak-stats.demolab.com?user=FenosoaRandrianjatovo&theme=radical&hide_border=true" alt="GitHub streak"/> <br><br> <img src="https://github-readme-activity-graph.vercel.app/graph?username=FenosoaRandrianjatovo&theme=react-dark&hide_border=true" alt="GitHub activity graph"/> </div>
