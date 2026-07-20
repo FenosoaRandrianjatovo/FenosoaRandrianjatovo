@@ -5,7 +5,7 @@
   />
 </div>
 
-
+<br><br><br><br>
 - 🔭 I’m currently working on Unsupervised Visualisation using Constrastive Learning   at the Institut National de la Recherche Scientifique, INRS .
 - 🌱 I’m currently developing CosMAP — Contrastive Manifold Approximation and Projection, a Python package for unsupervised  dimensionality reduction and visualization.
 - 💬 Ask me about Mathematics, Machine Learning, and Artificial Intelligence .
@@ -18,5 +18,5 @@
 #### Github contributions
  
 
-<br><br>
+
 <div align="center"> <img src="https://streak-stats.demolab.com?user=FenosoaRandrianjatovo&theme=radical&hide_border=true" alt="GitHub streak"/> <br><br> <img src="https://github-readme-activity-graph.vercel.app/graph?username=FenosoaRandrianjatovo&theme=react-dark&hide_border=true" alt="GitHub activity graph"/> </div>
