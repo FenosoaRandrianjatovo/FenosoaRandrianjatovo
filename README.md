@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on Variational AutoEncoder  at the Institut National de la Recherche Scientifique, INRS Laval - UQAM - UQAC
-- 🌱 I’m currently Learning the Multivariate Expectiles and Uniform Manifold Approximation and Projection with t-distributed stochastic neighbor embedding 
+- 🔭 I’m currently working on Unsupervised Visulaition using Constrastive Learning   at the Institut National de la Recherche Scientifique, INRS Laval - UQAM - UQAC
+- 🌱 I’m currently deploying our package for dimensionality reduction it is called Contrastive  Approximation and Projection for visualisation 
 - 💬 Ask me about Mathematics and Artificial Intelligence 
 - ⚡ Fun fact: The moon has moonquakes 🤪
 
