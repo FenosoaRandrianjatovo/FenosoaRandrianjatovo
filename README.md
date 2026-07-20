@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on Unsupervised Visulaition using Constrastive Learning   at the Institut National de la Recherche Scientifique, INRS Laval - UQAM - UQAC
-- 🌱 I’m currently deploying our package for dimensionality reduction it is called Contrastive  Approximation and Projection for visualisation 
-- 💬 Ask me about Mathematics and Artificial Intelligence 
+- 🔭 I’m currently working on Unsupervised Visualisation using Constrastive Learning   at the Institut National de la Recherche Scientifique, INRS .
+- 🌱 I’m currently developing CosMAP — Contrastive Manifold Approximation and Projection, a Python package for unsupervised  dimensionality reduction and visualization.
+- 💬 Ask me about Mathematics, Machine Learning, and Artificial Intelligence .
 - ⚡ Fun fact: The moon has moonquakes 🤪
 
 
