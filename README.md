@@ -6,17 +6,17 @@
 </div>
 
 <br><br><br>
-#### Hello, I'm Fenosoa and welcome to my Github profil 
+# Hello, I'm Fenosoa and welcome to my Github profil 
 - 🔭 I’m currently working on Unsupervised Visualisation using Constrastive Learning   at the Institut National de la Recherche Scientifique, INRS .
 - 🌱 I’m currently developing CosMAP — Contrastive Manifold Approximation and Projection, a Python package for unsupervised  dimensionality reduction and visualization.
 - 💬 Ask me about Mathematics, Machine Learning, and Artificial Intelligence .
 - ⚡ Fun fact: The moon has moonquakes 🤪
 
 
-#### Connect with me:
+## Connect with me:
 <div align="center"> <a href="mailto:fenosoa.randrianjatovo@aims.ac.rw"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> &nbsp; <a href="https://www.linkedin.com/in/fenosoa-randrianjatovo"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> </div>
 
-#### Github contributions
+## Github contributions
  
 
 
