@@ -6,6 +6,7 @@
 </div>
 
 <br><br><br>
+#### Hello, I'm Fenosoa and welcome to my Github profil 
 - 🔭 I’m currently working on Unsupervised Visualisation using Constrastive Learning   at the Institut National de la Recherche Scientifique, INRS .
 - 🌱 I’m currently developing CosMAP — Contrastive Manifold Approximation and Projection, a Python package for unsupervised  dimensionality reduction and visualization.
 - 💬 Ask me about Mathematics, Machine Learning, and Artificial Intelligence .
