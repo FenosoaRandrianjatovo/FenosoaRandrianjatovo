@@ -8,16 +8,7 @@
 
 
 #### Connect with me:
-<div align="center">
-    <a href="mailto: fenosoa.randrianjatovo@aims.ac.rw">
-        <img alt="Fenosoa | Gmail" width="50px" style="margin-right:20px" src="https://logosandtypes.com/wp-content/uploads/2020/11/Google.png" />
-    </a>
-    &nbsp;&nbsp;&nbsp
-    <a href="https://www.linkedin.com/in/fenosoa-randrianjatovo">
-        <img alt="Fenosoa | LinkedIn" width="40px" style="margin-right:20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" />
-    </a>
-    &nbsp;&nbsp;&nbsp;
-</div>
+<div align="center"> <a href="mailto:fenosoa.randrianjatovo@aims.ac.rw"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> &nbsp; <a href="https://www.linkedin.com/in/fenosoa-randrianjatovo"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> </div>
 
 #### Github contributions
  
