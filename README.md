@@ -1,6 +1,6 @@
 <div align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=1010&lines=Hi%2C+I'm+Fenosoa+Randrianjatovo+%F0%9F%91%8B;Machine+Learning+Engineer+%26+Data scientist;Machine+Learning+Researcher+%26+Mathematician;Unsupervised+Data+Visualization+through+Contrastive+Learning"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=24&amp;duration=3000&amp;pause=1000&amp;color=2F81F7&amp;center=true&amp;vCenter=true&amp;width=1010&amp;lines=Hi%2C+I'm+Fenosoa+Randrianjatovo+%F0%9F%91%8B;Machine+Learning+Engineer+%26+Data+Scientist;Machine+Learning+Researcher+%26+Mathematician;Unsupervised+Data+Visualization+through+Contrastive+Learning"
     alt="Typing introduction"
   />
 </div>
